@@ -1,4 +1,4 @@
-# emaily
+
  A MERN stacked email campaign app that uses google OAuth and has stripe integration to accept payments. 
  Currently it's not accepting real payments since this project was done as educational exercise. 
  You can use 4242 4242 4242 4242 as the CC# to add credits to your account. 
